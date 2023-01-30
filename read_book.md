@@ -46,6 +46,7 @@
 
 
 Примеры чернового дизайна
+
 ![iPhone 8 - 1](https://user-images.githubusercontent.com/123976632/215584041-cfb1035a-973d-45a4-96d5-6410fa9fadba.jpg)
 ![iPhone 8 - 2](https://user-images.githubusercontent.com/123976632/215584156-640c1bad-0c8b-4563-9bc1-1bcc16cfe9d7.jpg)
 ![iPhone 8 - 3](https://user-images.githubusercontent.com/123976632/215584179-d9f85b26-ff0d-4a63-8a51-06ed8a6384d5.jpg)
